@@ -1,0 +1,14 @@
+﻿/* Mega Menu Styles */
+ul.dnnmega{width: 100%;list-style: none; margin-left: -40px;}
+ul.dnnmega ul{padding:0;}
+/*WAM - removed z-index*/
+ul.dnnmega li{float:left;list-style: none none;position: relative;}
+
+ul.dnnmega li.root.mmLast  {background:none;}
+ul.dnnmega li.root {line-height:35px;height:35px;display:block;text-align:left; background:url(images/MenuSep.png) no-repeat center right}
+ul.dnnmega li.root span{display:block;line-height:35px;height:35px;margin:0 15px 0 7px;padding:0px 5px 0 5px;}
+ul.dnnmega li.root>span{color:White;}
+
+ul.dnnmega li.root a {color: #CCC;}
+ul.dnnmega li.root a:hover{color: #fff;text-decoration:none;}
+
