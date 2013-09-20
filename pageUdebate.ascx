@@ -146,11 +146,12 @@
                 style="display: none" href="#">&nbsp;</a>
             <div id="footer">
                 <% If (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("el-GR")) Then%>                
-                <div id="footerText">
+                <div id="footerFlag">
+                </div>
+				<div id="footerText">
                     Αυτό το έργο συγχρηματοδοτείται από την ΕΕ στο πλαίσιο του ICT Policy Support Programme. Η Επιτροπή δε μπορεί να φέρει ευθύνη για καμία πιθανή χρήση της πληροφορίας που περιλαμβάνεται εδώ.
                 </div>
-				 <div id="footerFlag">
-                </div>
+				 
 				 <div class="dnnClear">
                 </div>				
 				<div id="footerContainer">
@@ -165,11 +166,11 @@
                 </div>
 				</div>
                 <% ElseIf (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("it-IT")) Then%>
+				<div id="footerFlag">
+                </div>
 				<div id="footerText">
                     Questo progetto è cofinanziato dalla Commissione Europea nell'ambito dell' ICT Policy Support Programme. La Commissione non può essere considerata responsabile per alcun uso che possa essere fatto delle informazioni qui contenute.
-                </div>
-				 <div id="footerFlag">
-                </div>
+                </div>				
 				 <div class="dnnClear">
                 </div>				
 				<div id="footerContainer">
@@ -185,11 +186,11 @@
 				</div>               
                 
                 <% ElseIf (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("es-ES")) Then%>
+				<div id="footerFlag">
+                </div>
 				<div id="footerText">
                     Este proyecto está co-financiado por la Comisión Europea a través del Programa de Apoyo a las Políticas TIC. La Comisión Europea no se hace responsable del uso que se pudiera hacer de la información aquí contenida.
-                </div>
-				 <div id="footerFlag">
-                </div>
+                </div>				 
 				 <div class="dnnClear">
                 </div>				
 				<div id="footerContainer">
@@ -205,11 +206,11 @@
                 </div>
 				</div> 
                 <% ElseIf (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("hu-HU")) Then%>
+				<div id="footerFlag">
+                </div>
 				<div id="footerText">
                     A projekt az Európai Bizottság társfinanszírozásában, az ICT Policy Support Programme keretében valósul meg. Az Európai Bizottság nem tehető felelős bármilyen használata, amely lehet az itt közölt információk.
-                </div>
-				 <div id="footerFlag">
-                </div>
+                </div>				
 				 <div class="dnnClear">
                 </div>				
 				<div id="footerContainer">
@@ -225,12 +226,12 @@
                 </div>
 				</div>
                 <% Else%>
+				<div id="footerFlag">
+                </div>
 				<div id="footerText">
                     This project is co-funded by the EC under the ICT Policy Support Programme. The Commission cannot be held
 					responsible for any use which may be made of the information contained herein.
-                </div>
-				 <div id="footerFlag">
-                </div>
+                </div>				 
 				 <div class="dnnClear">
                 </div>				
 				<div id="footerContainer">

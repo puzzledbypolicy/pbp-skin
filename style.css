@@ -1577,6 +1577,26 @@ margin-left: 540px;
 margin-top: 35px;
 }
 
+#achievements{
+background: url(images/follow_us_back400.png) no-repeat center;
+width:400px;
+height: 61px;
+margin-left: 540px;
+margin-top: 35px;
+}
+
+.achievementsText{
+background: url(images/achievements.png) no-repeat;
+left: 5px;
+font-size: 11px;
+position: relative;
+top: 5px;
+height:48px;
+padding-left:55px;
+float:left;
+text-align:left;
+}
+
 .followText{
 height: 20px;
 width: 165px;
@@ -1599,7 +1619,7 @@ width: 225px;
 left: 5px;
 position: relative;
 top: 15px;
-float:left;
+float:right;
 font-size:30px;
 }
 
@@ -1685,7 +1705,7 @@ a.st_it:hover,a.st_hu:hover
 
 #footerText{
 	float:left;
-	width:750px;
+	width:50%;
 	padding-top:5px;
 	padding-left:10px;
 	font-weight:normal;
@@ -1693,8 +1713,8 @@ a.st_it:hover,a.st_hu:hover
 
 #footerFlag{
     background: url("images/eu_ict.png") no-repeat right center;
-	float:right;
-	width:150px;
+	float:left;
+	width:122px;
 	height:50px
 }
 

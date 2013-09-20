@@ -1,4 +1,4 @@
-<%@ Control language="vb" CodeBehind="~/admin/Skins/skin.vb" AutoEventWireup="false" Explicit="True" Inherits="DotNetNuke.UI.Skins.Skin" %>
+ο»Ώ<%@ Control language="vb" CodeBehind="~/admin/Skins/skin.vb" AutoEventWireup="false" Explicit="True" Inherits="DotNetNuke.UI.Skins.Skin" %>
 <%@ Register TagPrefix="dnn" TagName="LOGO" Src="~/Admin/Skins/logo.ascx" %>
 <%@ Register TagPrefix="dnn" TagName="LOGIN" Src="~/Admin/Skins/login.ascx" %>
 <%@ Register TagPrefix="dnn" TagName="BREADCRUMB" Src="~/Admin/Skins/breadcrumb.ascx" %>
@@ -24,13 +24,13 @@
 	<div id="getInvolved">
 	<a href="/<%=System.Threading.Thread.CurrentThread.CurrentCulture.Name %>/howtogetinvolved.aspx">
 	<% If (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("el-GR")) Then%>
-	Πώς να συμμετέχετε
+	Ξ ΟΟ‚ Ξ½Ξ± ΟƒΟ…ΞΌΞΌΞµΟ„Ξ­Ο‡ΞµΟ„Ξµ
 	<% ElseIf (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("it-IT")) Then%>
 	Come partecipare
 	<% ElseIf (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("es-ES")) Then%>
-	Como Participar
+	CΓ³mo Participar
 	<% ElseIf (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("hu-HU")) Then%>
-	Hogyan kapcsolodhat be?
+	Hogyan kapcsolΓ³dhat be?
 	<% Else%>
 	How to get involved
 	<% End If%>

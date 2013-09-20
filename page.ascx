@@ -124,14 +124,26 @@
 </div>
 <div id="footer" style="width: 961px;">
     <% If (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("el-GR")) Then%>
-    <div id="footerText">
+    <div id="footerFlag">
+    </div>
+	<div id="footerText">
         Αυτό το έργο συγχρηματοδοτείται από την ΕΕ στο πλαίσιο του ICT Policy Support Programme.
         Αυτός ο ιστότοπος αντανακλά μόνο τις απόψεις της Κοινοπραξίας και η Επιτροπή δε
         μπορεί να φέρει ευθύνη για καμία πιθανή χρήση της πληροφορίας που περιλαμβάνεται
         εδώ.
-    </div>
-    <div id="footerFlag">
-    </div>
+    </div> 
+<div id="followLinks">
+<a href="http://www.facebook.com/pages/Puzzled-by-Policy/167052726656341">
+<img alt="" src="/portals/0/home/fbook.png" /></a>
+<a href="http://www.linkedin.com/groups?about=&amp;gid=3750508&amp;trk=anet_ug_grppr">
+<img alt="" src="/portals/0/home/linkedin.png" /></a>
+<a href="http://twitter.com/#!/puzzledbypolicy">
+<img alt="" src="/portals/0/home/twitter.png" /></a>
+<a href="http://www.flickr.com/photos/puzzledbypolicy/">
+<img alt="" src="/portals/0/home/flickr.png" /></a>
+<a href="http://www.youtube.com/user/PuzzledbyPolicy">
+<img alt="" src="/portals/0/home/youtube.png" /></a>
+</div>	
     <div class="dnnClear">
     </div>
     <div id="footerContainer">
@@ -146,14 +158,26 @@
         </div>
     </div>
     <% ElseIf (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("it-IT")) Then%>
-    <div id="footerText">
+    <div id="footerFlag">
+    </div>
+	<div id="footerText">
         Questo progetto è cofinanziato dalla Commissione Europea nell'ambito dell' ICT Policy
         Support Programme. Questo portale rispecchia il punto di vista solamente del Consorzio,
         la Commissione non può essere considerata responsabile per alcun uso che possa essere
         fatto delle informazioni qui contenute.
     </div>
-    <div id="footerFlag">
-    </div>
+	<div id="followLinks">
+<a href="http://www.facebook.com/pages/Puzzled-by-Policy/167052726656341">
+<img alt="" src="/portals/0/home/fbook.png" /></a>
+<a href="http://www.linkedin.com/groups?about=&amp;gid=3750508&amp;trk=anet_ug_grppr">
+<img alt="" src="/portals/0/home/linkedin.png" /></a>
+<a href="http://twitter.com/#!/puzzledbypolicy">
+<img alt="" src="/portals/0/home/twitter.png" /></a>
+<a href="http://www.flickr.com/photos/puzzledbypolicy/">
+<img alt="" src="/portals/0/home/flickr.png" /></a>
+<a href="http://www.youtube.com/user/PuzzledbyPolicy">
+<img alt="" src="/portals/0/home/youtube.png" /></a>
+</div>
     <div class="dnnClear">
     </div>
     <div id="footerContainer">
@@ -168,14 +192,26 @@
         </div>
     </div>
     <% ElseIf (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("es-ES")) Then%>
-    <div id="footerText">
+    <div id="footerFlag">
+    </div>
+	<div id="footerText">
         Este proyecto está co-financiado por la Comisión Europea a través del Programa de
         Apoyo a las Políticas TIC. Este portal es responsabilidad exlusiva del Consorcio,
         y la Comisión Europea no se hace responsable del uso que se pudiera hacer de la
         información aquí contenida.
-    </div>
-    <div id="footerFlag">
-    </div>
+    </div>  
+<div id="followLinks">
+<a href="http://www.facebook.com/pages/Puzzled-by-Policy/167052726656341">
+<img alt="" src="/portals/0/home/fbook.png" /></a>
+<a href="http://www.linkedin.com/groups?about=&amp;gid=3750508&amp;trk=anet_ug_grppr">
+<img alt="" src="/portals/0/home/linkedin.png" /></a>
+<a href="http://twitter.com/#!/puzzledbypolicy">
+<img alt="" src="/portals/0/home/twitter.png" /></a>
+<a href="http://www.flickr.com/photos/puzzledbypolicy/">
+<img alt="" src="/portals/0/home/flickr.png" /></a>
+<a href="http://www.youtube.com/user/PuzzledbyPolicy">
+<img alt="" src="/portals/0/home/youtube.png" /></a>
+</div>	
     <div class="dnnClear">
     </div>
     <div id="footerContainer">
@@ -191,14 +227,26 @@
         </div>
     </div>
     <% ElseIf (System.Threading.Thread.CurrentThread.CurrentCulture.Name.Equals("hu-HU")) Then%>
-    <div id="footerText">
+    <div id="footerFlag">
+    </div>
+	<div id="footerText">
         A projekt az Európai Bizottság társfinanszírozásában, az ICT Policy Support Programme
         keretében valósul meg. A portálon megjelenő tartalmak csak a megvalósítást végző
         konzorcium véleményét tükrözik; a Bizottság nem tehető felelőssé azok bárminemű
         felhasználásáért.
     </div>
-    <div id="footerFlag">
-    </div>
+	<div id="followLinks">
+<a href="http://www.facebook.com/pages/Puzzled-by-Policy/167052726656341">
+<img alt="" src="/portals/0/home/fbook.png" /></a>
+<a href="http://www.linkedin.com/groups?about=&amp;gid=3750508&amp;trk=anet_ug_grppr">
+<img alt="" src="/portals/0/home/linkedin.png" /></a>
+<a href="http://twitter.com/#!/puzzledbypolicy">
+<img alt="" src="/portals/0/home/twitter.png" /></a>
+<a href="http://www.flickr.com/photos/puzzledbypolicy/">
+<img alt="" src="/portals/0/home/flickr.png" /></a>
+<a href="http://www.youtube.com/user/PuzzledbyPolicy">
+<img alt="" src="/portals/0/home/youtube.png" /></a>
+</div>
     <div class="dnnClear">
     </div>
     <div id="footerContainer">
@@ -214,13 +262,25 @@
         </div>
     </div>
     <% Else%>
+	<div id="footerFlag">
+    </div>
     <div id="footerText">
         This project is co-funded by the EC under the ICT Policy Support Programme. This
         portal reflects the views only of the Consortium, and the Commission cannot be held
         responsible for any use which may be made of the information contained herein.
-    </div>
-    <div id="footerFlag">
-    </div>
+    </div>  
+	<div id="followLinks">
+<a href="http://www.facebook.com/pages/Puzzled-by-Policy/167052726656341">
+<img alt="" src="/portals/0/home/fbook.png" /></a>
+<a href="http://www.linkedin.com/groups?about=&amp;gid=3750508&amp;trk=anet_ug_grppr">
+<img alt="" src="/portals/0/home/linkedin.png" /></a>
+<a href="http://twitter.com/#!/puzzledbypolicy">
+<img alt="" src="/portals/0/home/twitter.png" /></a>
+<a href="http://www.flickr.com/photos/puzzledbypolicy/">
+<img alt="" src="/portals/0/home/flickr.png" /></a>
+<a href="http://www.youtube.com/user/PuzzledbyPolicy">
+<img alt="" src="/portals/0/home/youtube.png" /></a>
+</div>
     <div class="dnnClear">
     </div>
     <div id="footerContainer">
